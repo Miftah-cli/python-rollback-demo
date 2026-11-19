@@ -1,1 +1,1 @@
-print("Hello World - Versi 1")
+print("Hello World - Versi 2, update berhasil!")
